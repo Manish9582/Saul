@@ -1,0 +1,8 @@
+.attchImage {
+  background-image: url('/assets/loveFrant.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 99.80vh; 
+  background-repeat: no-repeat;
+  background-position: center;
+}
